@@ -10,7 +10,7 @@ Icons\kiwix.ico       האייקון האמיתי של התוכנה, חולץ מ
 Installer\setup.iss   סקריפט ה-Inno Setup הראשי
 Installer\Languages\Hebrew.isl   קובץ תרגום עברית + RTL עבור Inno Setup
 Installer\Output\     לכאן ייוצא קובץ ה-Setup.exe הסופי לאחר קומפילציה
-GUIDE.md              המדריך הזה
+README.md              המדריך הזה
 ```
 
 ## איך בונים את ההתקנה
