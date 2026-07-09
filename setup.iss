@@ -66,7 +66,7 @@ SetupIconFile={#IconsPath}\kiwix.ico
 ; --- אייקון המוצג בחלונית האשף עצמה (בפינה השמאלית העליונה, גודל קטן) ---
 WizardSmallImageFile={#IconsPath}\kiwix_small.bmp
 ; אם ברצונך תמונת פתיחה גדולה יותר (164x314 בערך) בעמוד הפתיחה/סיום,
-; ניתן להוסיף כאן: WizardImageFile=Icons\wizard_banner.bmp
+WizardImageFile=..\Icons\wizard_banner.bmp
 ShowLanguageDialog=yes
 MinVersion=6.1sp1
 
